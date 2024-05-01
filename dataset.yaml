@@ -1,0 +1,9 @@
+path: /content/drive/MyDrive/
+train: 
+  images: train/images
+  labels: train/labels
+val: 
+  images: val/images
+  labels: val/labels
+nc: 1
+names: ['0']
